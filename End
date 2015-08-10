@@ -1,0 +1,20 @@
+Examen practico A y B (compu de Laboratorio)
+Se debe crear una aplicación que contenga la siguiente ventana
+ login ---------------------------
+ password -----------------------
+ INGRESAR -------
+ !) Si se ingresa el login: "examen"
+ Si se ingresa el password: "aprobado"
+ Se debera cerrar la ventana y abrirse una nueva
+ 
+ "YA ESTAS APROBADO"
+ 
+ 2) Si alguno de ambos datos
+ de la primera ventana
+ son incorrectos debe aparecer
+ en la misma ventana un mensaje
+ que diga: "ESTAS REPROBADO"
+ login -------------------------- ALGO
+ password ----------------------- NADA
+ INGRESAR -------
+ "ESTAS REPROBADO"
